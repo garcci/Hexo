@@ -783,7 +783,7 @@ subtitle:
 
 # Loading Animation (加载动画)
 preloader:
-  enable: true
+  enable: false
   # source
   # 1. fullpage-loading
   # 2. pace (progress bar)
@@ -1127,7 +1127,7 @@ comment_barrage_config:
 # 左下角音乐配置项
 # https://github.com/metowolf/MetingJS
 nav_music:
-  enable: true
+  enable: false
   console_widescreen_music: false # 宽屏状态控制台显示音乐而不是标签 enable为true 控制台依然会显示
   id: 817867265
   server: netease
